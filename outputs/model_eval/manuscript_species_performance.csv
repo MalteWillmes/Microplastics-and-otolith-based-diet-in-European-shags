@@ -1,0 +1,8 @@
+species,N_test,Recall,Specificity,Precision,F1,Balanced_accuracy
+cod,6,0.667,0.865,0.444,0.533,0.766
+haddock,4,0.5,1,1,0.667,0.75
+poor_cod,6,0.833,0.946,0.714,0.769,0.89
+norway_pout,2,1,0.976,0.667,0.8,0.988
+saithe,16,0.812,1,1,0.897,0.906
+lesser_sand_eel,4,1,1,1,1,1
+wrasse,5,1,1,1,1,1

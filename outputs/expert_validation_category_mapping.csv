@@ -1,0 +1,12 @@
+expert_species_raw,category_key,category,n_rows,n_otoliths
+torsk,cod,Cod,4,4
+sei,saithe,Saithe,24,24
+"torskefisk ukj (gadoid), antagelig sei",saithe,Saithe,10,10
+Sypike,poor_cod,Poor Cod,19,19
+"Trisopterus sp, antagelig sypike",poor_cod,Poor Cod,2,2
+sypike,poor_cod,Poor Cod,24,24
+torskefisk ukj (gadoid),gadoid_unknown,Unknown gadoid,19,70
+tobis,lesser_sandeel,Lesser Sandeel,6,6
+leppefisk/labridae,wrasse,Wrasse sp.,20,20
+"ukjent, mulig ål",other,Other species,2,2
+"ukjent, knekt, ufullstendig",unknown,Unknown,1,10

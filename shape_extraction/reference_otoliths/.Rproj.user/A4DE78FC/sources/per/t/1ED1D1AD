@@ -1,0 +1,26 @@
+{
+    "id": "1ED1D1AD",
+    "path": "C:/shape_analysis/shape_extraction/reference_otoliths/01_shapeR.R",
+    "project_path": "01_shapeR.R",
+    "type": "r_source",
+    "hash": "3435179421",
+    "contents": "",
+    "dirty": false,
+    "created": 1712047123977.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "146,1",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1790858581,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1790858581288,
+    "read_only": false,
+    "read_only_alternatives": []
+}

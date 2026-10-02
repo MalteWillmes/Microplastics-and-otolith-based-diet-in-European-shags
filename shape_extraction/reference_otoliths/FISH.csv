@@ -1,0 +1,177 @@
+﻿country,station,species,Fish_ID,length_cm,sex,folder,picname,cal
+Norway,Norway,cod,torsk1,,,torsk,ref-t1,110
+Norway,Norway,cod,torsk2,,,torsk,ref-t2,110
+Norway,Norway,cod,torsk3,,,torsk,ref-t3,110
+Norway,Norway,cod,torsk4,,,torsk,ref-t4,110
+Norway,Norway,cod,torsk5,,,torsk,ref-t5,110
+Norway,Norway,cod,torsk6,,,torsk,ref-t6,110
+Norway,Norway,cod,torsk7,,,torsk,ref-t7,110
+Norway,Norway,cod,torsk8,,,torsk,ref-t8,110
+Norway,Norway,cod,torsk9,,,torsk,ref-t9,110
+Norway,Norway,cod,torsk10,,,torsk,ref-t10,110
+Norway,Norway,cod,torsk11,,,torsk,ref-t11,110
+Norway,Norway,cod,torsk12,,,torsk,ref-t12,110
+Norway,Norway,cod,Cod_1187_1,,,torsk,Cod_1187_1,289.8550725
+Norway,Norway,cod,Cod_1187_2,,,torsk,Cod_1187_2,289.8550725
+Norway,Norway,cod,Cod_1195_1,,,torsk,Cod_1195_1,289.8550725
+Norway,Norway,cod,Cod_ts-sk 24-92_1,,,torsk,Cod_ts-sk 24-92_1,231.884058
+Norway,Norway,cod,Cod_ts-sk 24-92_2,,,torsk,Cod_ts-sk 24-92_2,231.884058
+Norway,Norway,cod,Cod_ts-sk 24-92_3,,,torsk,Cod_ts-sk 24-92_3,289.8550725
+Norway,Norway,cod,Cod_ts-sk 24-92_4,,,torsk,Cod_ts-sk 24-92_4,362.3188406
+Norway,Norway,cod,Cod_ts_sk_24-88_1,,,torsk,Cod_ts_sk_24-88_1,289.8550725
+Norway,Norway,cod,Cod_ts_sk_24-88_2,,,torsk,Cod_ts_sk_24-88_2,289.8550725
+Norway,Norway,cod,Cod_ts_sk_24-88_3,,,torsk,Cod_ts_sk_24-88_3,289.8550725
+Norway,Norway,cod,Cod_ts_sk_24-88_4,,,torsk,Cod_ts_sk_24-88_4,231.884058
+Norway,Norway,cod,Torsk_HestHLM.S_38_1,,,torsk,Torsk_HestHLM.S_38_1,289.8550725
+Norway,Norway,haddock,hyse1,,,haddock,refH-1,110
+Norway,Norway,haddock,hyse2,,,haddock,refH-2,110
+Norway,Norway,haddock,hyse3,,,haddock,refH-3,110
+Norway,Norway,haddock,hyse4,,,haddock,refH-4,110
+Norway,Norway,haddock,hyse5,,,haddock,refH-5,110
+Norway,Norway,haddock,hyse6,,,haddock,refH-6,110
+Norway,Norway,haddock,hyse7,,,haddock,refH-7,110
+Norway,Norway,haddock,hyse8,,,haddock,refH-8,110
+Norway,Norway,haddock,hyse9,,,haddock,refH-9,110
+Norway,Norway,haddock,hyse10,,,haddock,refH-10,110
+Norway,Norway,haddock,Haddoc_1195_1,,,haddock,Haddoc_1195_1,289.8550725
+Norway,Norway,haddock,Haddoc_2010_1187_1,,,haddock,Haddoc_2010_1187_1,289.8550725
+Norway,Norway,haddock,Haddoc_2010_1187_2,,,haddock,Haddoc_2010_1187_2,289.8550725
+Norway,Norway,haddock,haddock_1160_01,,,haddock,haddock_1160_01,289.8550725
+Norway,Norway,lesser_sand_eel,aa-1,,,sandeel,refaa-1,110
+Norway,Norway,lesser_sand_eel,aa-2,,,sandeel,refaa-2,110
+Norway,Norway,lesser_sand_eel,aa-3,,,sandeel,refaa-3,110
+Norway,Norway,lesser_sand_eel,aa-4,,,sandeel,refaa-4,110
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_1,,,sandeel,Sandeel-ts-sk 24-93_1,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_2,,,sandeel,Sandeel-ts-sk 24-93_2,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_3,,,sandeel,Sandeel-ts-sk 24-93_3,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_4,,,sandeel,Sandeel-ts-sk 24-93_4,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_5,,,sandeel,Sandeel-ts-sk 24-93_5,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_6,,,sandeel,Sandeel-ts-sk 24-93_6,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_7,,,sandeel,Sandeel-ts-sk 24-93_7,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_8,,,sandeel,Sandeel-ts-sk 24-93_8,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel-ts-sk 24-93_9,,,sandeel,Sandeel-ts-sk 24-93_9,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel Ritri 240319-65 tobis_1,,,sandeel,Sandeel Ritri 240319-65 tobis_1,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel Ritri 240319-65 tobis_2,,,sandeel,Sandeel Ritri 240319-65 tobis_2,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel Ritri 240319-65 tobis_3,,,sandeel,Sandeel Ritri 240319-65 tobis_3,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel Ritri 240319-65 tobis_4,,,sandeel,Sandeel Ritri 240319-65 tobis_4,463.7681159
+Norway,Norway,lesser_sand_eel,Sandeel_1195_1,,,sandeel,Sandeel_1195_1,463.7681159
+Norway,Norway,norway_pout,oyepal1,,,oo2,refo-1,110
+Norway,Norway,norway_pout,oyepal2,,,oo2,refo-2,110
+Norway,Norway,norway_pout,oyepal3,,,oo2,refo-3,110
+Norway,Norway,norway_pout,oyepal4,,,oo2,refo-4,110
+Norway,Norway,norway_pout,oyepal5,,,oo2,refo-5,110
+Norway,Norway,norway_pout,oyepal6,,,oo2,refo-6,110
+Norway,Norway,norway_pout,oyepal7,,,oo2,refo-7,110
+Norway,Norway,poor_cod,sypike1,,,sypike,refsyp-1,110
+Norway,Norway,poor_cod,sypike2,,,sypike,refsyp-2,110
+Norway,Norway,poor_cod,sypike3,,,sypike,refsyp-3,110
+Norway,Norway,poor_cod,sypike4,,,sypike,refsyp-4,110
+Norway,Norway,poor_cod,sypike5,,,sypike,refsyp-5,110
+Norway,Norway,poor_cod,sypike6,,,sypike,refsyp-6,110
+Norway,Norway,poor_cod,sypike7,,,sypike,refsyp-7,110
+Norway,Norway,poor_cod,sypike8,,,sypike,refsyp-8,110
+Norway,Norway,poor_cod,sypike9,,,sypike,refsyp-9,110
+Norway,Norway,poor_cod,sypike10,,,sypike,refsyp-10,110
+Norway,Norway,poor_cod,sypike11,,,sypike,refsyp-11,110
+Norway,Norway,poor_cod,sypike12,,,sypike,refsyp-12,110
+Norway,Norway,poor_cod,sypike13,,,sypike,refsyp-13,110
+Norway,Norway,poor_cod,sypike14,,,sypike,refsyp-14,110
+Norway,Norway,poor_cod,Poor cod ts-sk-24-04_1,,,sypike,Poor cod ts-sk-24-04_1,289.8550725
+Norway,Norway,poor_cod,Poor cod ts-sk-24-04_2,,,sypike,Poor cod ts-sk-24-04_2,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-04_3,,,sypike,Poor cod ts-sk-24-04_3,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_10,,,sypike,Poor cod ts-sk-24-85_10,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_4,,,sypike,Poor cod ts-sk-24-85_4,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_5,,,sypike,Poor cod ts-sk-24-85_5,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_6,,,sypike,Poor cod ts-sk-24-85_6,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_7,,,sypike,Poor cod ts-sk-24-85_7,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_8,,,sypike,Poor cod ts-sk-24-85_8,362.3188406
+Norway,Norway,poor_cod,Poor cod ts-sk-24-85_9,,,sypike,Poor cod ts-sk-24-85_9,362.3188406
+Norway,Norway,saithe,sei1,,,sei,refsei-1,110
+Norway,Norway,saithe,sei2,,,sei,refsei-2,110
+Norway,Norway,saithe,sei3,,,sei,refsei-3,110
+Norway,Norway,saithe,sei4,,,sei,refsei-4,110
+Norway,Norway,saithe,sei5,,,sei,refsei-5,110
+Norway,Norway,saithe,sei6,,,sei,refsei-6,110
+Norway,Norway,saithe,sei7,,,sei,refsei-7,110
+Norway,Norway,saithe,sei8,,,sei,refsei-8,110
+Norway,Norway,saithe,sei9,,,sei,refsei-9,110
+Norway,Norway,saithe,sei10,,,sei,refsei-10,110
+Norway,Norway,saithe,sei11,,,sei,refsei-11,110
+Norway,Norway,saithe,sei12,,,sei,refsei-12,110
+Norway,Norway,saithe,sei13,,,sei,refsei-13,110
+Norway,Norway,saithe,sei14,,,sei,refsei-14,110
+Norway,Norway,saithe,sei15,,,sei,refsei-15,110
+Norway,Norway,saithe,sei16,,,sei,refsei-16,110
+Norway,Norway,saithe,Saithe ts-sk 24-04_1,,,sei,Saithe ts-sk 24-04_1,289.8550725
+Norway,Norway,saithe,Saithe ts-sk 24-04_10,,,sei,Saithe ts-sk 24-04_10,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_11,,,sei,Saithe ts-sk 24-04_11,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_12,,,sei,Saithe ts-sk 24-04_12,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_13,,,sei,Saithe ts-sk 24-04_13,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_14,,,sei,Saithe ts-sk 24-04_14,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_15,,,sei,Saithe ts-sk 24-04_15,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_16,,,sei,Saithe ts-sk 24-04_16,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_17,,,sei,Saithe ts-sk 24-04_17,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_18,,,sei,Saithe ts-sk 24-04_18,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_19,,,sei,Saithe ts-sk 24-04_19,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_2,,,sei,Saithe ts-sk 24-04_2,289.8550725
+Norway,Norway,saithe,Saithe ts-sk 24-04_20,,,sei,Saithe ts-sk 24-04_20,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_21,,,sei,Saithe ts-sk 24-04_21,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_22,,,sei,Saithe ts-sk 24-04_22,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_23,,,sei,Saithe ts-sk 24-04_23,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_3,,,sei,Saithe ts-sk 24-04_3,289.8550725
+Norway,Norway,saithe,Saithe ts-sk 24-04_4,,,sei,Saithe ts-sk 24-04_4,289.8550725
+Norway,Norway,saithe,Saithe ts-sk 24-04_5,,,sei,Saithe ts-sk 24-04_5,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_6,,,sei,Saithe ts-sk 24-04_6,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_7,,,sei,Saithe ts-sk 24-04_7,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_8,,,sei,Saithe ts-sk 24-04_8,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-04_9,,,sei,Saithe ts-sk 24-04_9,463.7681159
+Norway,Norway,saithe,Saithe ts-sk 24-85_1,,,sei,Saithe ts-sk 24-85_1,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_10,,,sei,Saithe ts-sk 24-85_10,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_11,,,sei,Saithe ts-sk 24-85_11,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_12,,,sei,Saithe ts-sk 24-85_12,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_13,,,sei,Saithe ts-sk 24-85_13,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_14,,,sei,Saithe ts-sk 24-85_14,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_15,,,sei,Saithe ts-sk 24-85_15,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_16,,,sei,Saithe ts-sk 24-85_16,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_17,,,sei,Saithe ts-sk 24-85_17,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_18,,,sei,Saithe ts-sk 24-85_18,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_2,,,sei,Saithe ts-sk 24-85_2,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_3,,,sei,Saithe ts-sk 24-85_3,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_4,,,sei,Saithe ts-sk 24-85_4,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_5,,,sei,Saithe ts-sk 24-85_5,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_6,,,sei,Saithe ts-sk 24-85_6,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_7,,,sei,Saithe ts-sk 24-85_7,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_8,,,sei,Saithe ts-sk 24-85_8,1666.666667
+Norway,Norway,saithe,Saithe ts-sk 24-85_9,,,sei,Saithe ts-sk 24-85_9,1666.666667
+Norway,Norway,wrasse,Labridae ts-sk 24-37_1,,,labridae,Labridae ts-sk 24-37_1,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_10,,,labridae,Labridae ts-sk 24-37_10,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_11,,,labridae,Labridae ts-sk 24-37_11,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_12,,,labridae,Labridae ts-sk 24-37_12,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_13,,,labridae,Labridae ts-sk 24-37_13,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_14,,,labridae,Labridae ts-sk 24-37_14,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_15,,,labridae,Labridae ts-sk 24-37_15,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_16,,,labridae,Labridae ts-sk 24-37_16,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_17,,,labridae,Labridae ts-sk 24-37_17,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_18,,,labridae,Labridae ts-sk 24-37_18,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_19,,,labridae,Labridae ts-sk 24-37_19,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_2,,,labridae,Labridae ts-sk 24-37_2,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_20,,,labridae,Labridae ts-sk 24-37_20,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_21,,,labridae,Labridae ts-sk 24-37_21,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_22,,,labridae,Labridae ts-sk 24-37_22,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_23,,,labridae,Labridae ts-sk 24-37_23,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_24,,,labridae,Labridae ts-sk 24-37_24,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_25,,,labridae,Labridae ts-sk 24-37_25,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_26,,,labridae,Labridae ts-sk 24-37_26,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_27,,,labridae,Labridae ts-sk 24-37_27,1666.666667
+Norway,Norway,wrasse,Labridae ts-sk 24-37_28,,,labridae,Labridae ts-sk 24-37_28,1666.666667
+Norway,Norway,wrasse,Labridae ts-sk 24-37_3,,,labridae,Labridae ts-sk 24-37_3,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_4,,,labridae,Labridae ts-sk 24-37_4,1384.057971
+Norway,Norway,wrasse,Labridae ts-sk 24-37_5,,,labridae,Labridae ts-sk 24-37_5,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_6,,,labridae,Labridae ts-sk 24-37_6,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_7,,,labridae,Labridae ts-sk 24-37_7,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_8,,,labridae,Labridae ts-sk 24-37_8,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-37_9,,,labridae,Labridae ts-sk 24-37_9,1449.275362
+Norway,Norway,wrasse,Labridae ts-sk 24-92_1,,,labridae,Labridae ts-sk 24-92_1,463.7681159
+Norway,Norway,wrasse,Labridae ts-sk 24-92_2,,,labridae,Labridae ts-sk 24-92_2,144.9275362
+Norway,Norway,wrasse,Labridae ts-sk 24-92_3,,,labridae,Labridae ts-sk 24-92_3,144.9275362
+Norway,Norway,wrasse,Labridae ts-sk 24-92_4,,,labridae,Labridae ts-sk 24-92_4,144.9275362

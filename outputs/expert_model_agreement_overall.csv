@@ -1,0 +1,2 @@
+n_sites,n_site_category_comparisons,expert_total,model_total,total_count_difference,mean_bias_count,MAE_count,RMSE_count,exact_count_match_proportion,MAE_pp,RMSE_pp,max_absolute_difference_pp,spearman_count,spearman_proportion,mean_site_bray_curtis_counts,mean_site_bray_curtis_composition
+6,60,191,191,0,0,3.1333333333333333,9.20326029187483,0.6666666666666666,8.065075479396164,17.21600989896137,64.47368421052632,0.7581593212757777,0.7519264404154665,0.40325377396980827,0.4032537739698082

@@ -1,0 +1,2 @@
+model,predictor_set,balance,n_test,accuracy,accuracy_ci_lower,accuracy_ci_upper,kappa,macro_f1,macro_balanced_accuracy
+Fourier_Morphometrics_Weighting,Fourier_Morphometrics,Weighting,43,0.813953488372093,0.6659855327575865,0.9160876002244056,0.7691275167785235,0.8093974990526714,0.8999228976363123

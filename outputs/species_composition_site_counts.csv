@@ -1,0 +1,261 @@
+category,sample_group,analysis_id,n,N,species,analysis_type,label
+No_MP,f1r1,cod_0,0,22,cod,Age class,Cod 0
+No_MP,f1r1,cod_1,0,22,cod,Age class,Cod 1
+No_MP,f1r1,cod_total,0,22,cod,Species total,Cod
+No_MP,f1r1,gadoids_unknown,9,22,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f1r1,haddock,0,22,haddock,Species total,Haddock
+No_MP,f1r1,lesser_sand_eel,0,22,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f1r1,norway_pout,0,22,norway_pout,Species total,Norway Pout
+No_MP,f1r1,poor_cod_1,0,22,poor_cod,Age class,Poor Cod 1+
+No_MP,f1r1,poor_cod_total,0,22,poor_cod,Species total,Poor Cod
+No_MP,f1r1,saithe_0,10,22,saithe,Age class,Saithe 0
+No_MP,f1r1,saithe_1,0,22,saithe,Age class,Saithe 1
+No_MP,f1r1,saithe_total,10,22,saithe,Species total,Saithe
+No_MP,f1r1,wrasse,3,22,wrasse,Species total,Wrasse sp.
+No_MP,f1r9,cod_0,0,68,cod,Age class,Cod 0
+No_MP,f1r9,cod_1,0,68,cod,Age class,Cod 1
+No_MP,f1r9,cod_total,0,68,cod,Species total,Cod
+No_MP,f1r9,gadoids_unknown,8,68,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f1r9,haddock,0,68,haddock,Species total,Haddock
+No_MP,f1r9,lesser_sand_eel,1,68,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f1r9,norway_pout,0,68,norway_pout,Species total,Norway Pout
+No_MP,f1r9,poor_cod_1,0,68,poor_cod,Age class,Poor Cod 1+
+No_MP,f1r9,poor_cod_total,0,68,poor_cod,Species total,Poor Cod
+No_MP,f1r9,saithe_0,58,68,saithe,Age class,Saithe 0
+No_MP,f1r9,saithe_1,0,68,saithe,Age class,Saithe 1
+No_MP,f1r9,saithe_total,58,68,saithe,Species total,Saithe
+No_MP,f1r9,wrasse,1,68,wrasse,Species total,Wrasse sp.
+No_MP,f2r3,cod_0,0,26,cod,Age class,Cod 0
+No_MP,f2r3,cod_1,0,26,cod,Age class,Cod 1
+No_MP,f2r3,cod_total,0,26,cod,Species total,Cod
+No_MP,f2r3,gadoids_unknown,9,26,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f2r3,haddock,0,26,haddock,Species total,Haddock
+No_MP,f2r3,lesser_sand_eel,0,26,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f2r3,norway_pout,0,26,norway_pout,Species total,Norway Pout
+No_MP,f2r3,poor_cod_1,0,26,poor_cod,Age class,Poor Cod 1+
+No_MP,f2r3,poor_cod_total,0,26,poor_cod,Species total,Poor Cod
+No_MP,f2r3,saithe_0,10,26,saithe,Age class,Saithe 0
+No_MP,f2r3,saithe_1,1,26,saithe,Age class,Saithe 1
+No_MP,f2r3,saithe_total,11,26,saithe,Species total,Saithe
+No_MP,f2r3,wrasse,6,26,wrasse,Species total,Wrasse sp.
+No_MP,f3r1,cod_0,0,43,cod,Age class,Cod 0
+No_MP,f3r1,cod_1,0,43,cod,Age class,Cod 1
+No_MP,f3r1,cod_total,0,43,cod,Species total,Cod
+No_MP,f3r1,gadoids_unknown,16,43,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f3r1,haddock,0,43,haddock,Species total,Haddock
+No_MP,f3r1,lesser_sand_eel,0,43,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f3r1,norway_pout,0,43,norway_pout,Species total,Norway Pout
+No_MP,f3r1,poor_cod_1,9,43,poor_cod,Age class,Poor Cod 1+
+No_MP,f3r1,poor_cod_total,9,43,poor_cod,Species total,Poor Cod
+No_MP,f3r1,saithe_0,18,43,saithe,Age class,Saithe 0
+No_MP,f3r1,saithe_1,0,43,saithe,Age class,Saithe 1
+No_MP,f3r1,saithe_total,18,43,saithe,Species total,Saithe
+No_MP,f3r1,wrasse,0,43,wrasse,Species total,Wrasse sp.
+No_MP,f3r3,cod_0,0,87,cod,Age class,Cod 0
+No_MP,f3r3,cod_1,0,87,cod,Age class,Cod 1
+No_MP,f3r3,cod_total,0,87,cod,Species total,Cod
+No_MP,f3r3,gadoids_unknown,0,87,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f3r3,haddock,0,87,haddock,Species total,Haddock
+No_MP,f3r3,lesser_sand_eel,0,87,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f3r3,norway_pout,0,87,norway_pout,Species total,Norway Pout
+No_MP,f3r3,poor_cod_1,0,87,poor_cod,Age class,Poor Cod 1+
+No_MP,f3r3,poor_cod_total,0,87,poor_cod,Species total,Poor Cod
+No_MP,f3r3,saithe_0,87,87,saithe,Age class,Saithe 0
+No_MP,f3r3,saithe_1,0,87,saithe,Age class,Saithe 1
+No_MP,f3r3,saithe_total,87,87,saithe,Species total,Saithe
+No_MP,f3r3,wrasse,0,87,wrasse,Species total,Wrasse sp.
+No_MP,f3r4,cod_0,1,22,cod,Age class,Cod 0
+No_MP,f3r4,cod_1,1,22,cod,Age class,Cod 1
+No_MP,f3r4,cod_total,2,22,cod,Species total,Cod
+No_MP,f3r4,gadoids_unknown,10,22,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f3r4,haddock,0,22,haddock,Species total,Haddock
+No_MP,f3r4,lesser_sand_eel,1,22,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f3r4,norway_pout,0,22,norway_pout,Species total,Norway Pout
+No_MP,f3r4,poor_cod_1,0,22,poor_cod,Age class,Poor Cod 1+
+No_MP,f3r4,poor_cod_total,0,22,poor_cod,Species total,Poor Cod
+No_MP,f3r4,saithe_0,3,22,saithe,Age class,Saithe 0
+No_MP,f3r4,saithe_1,6,22,saithe,Age class,Saithe 1
+No_MP,f3r4,saithe_total,9,22,saithe,Species total,Saithe
+No_MP,f3r4,wrasse,0,22,wrasse,Species total,Wrasse sp.
+No_MP,f4r1,cod_0,0,10,cod,Age class,Cod 0
+No_MP,f4r1,cod_1,0,10,cod,Age class,Cod 1
+No_MP,f4r1,cod_total,0,10,cod,Species total,Cod
+No_MP,f4r1,gadoids_unknown,6,10,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f4r1,haddock,0,10,haddock,Species total,Haddock
+No_MP,f4r1,lesser_sand_eel,0,10,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f4r1,norway_pout,0,10,norway_pout,Species total,Norway Pout
+No_MP,f4r1,poor_cod_1,0,10,poor_cod,Age class,Poor Cod 1+
+No_MP,f4r1,poor_cod_total,0,10,poor_cod,Species total,Poor Cod
+No_MP,f4r1,saithe_0,0,10,saithe,Age class,Saithe 0
+No_MP,f4r1,saithe_1,4,10,saithe,Age class,Saithe 1
+No_MP,f4r1,saithe_total,4,10,saithe,Species total,Saithe
+No_MP,f4r1,wrasse,0,10,wrasse,Species total,Wrasse sp.
+No_MP,f4r5,cod_0,0,240,cod,Age class,Cod 0
+No_MP,f4r5,cod_1,0,240,cod,Age class,Cod 1
+No_MP,f4r5,cod_total,0,240,cod,Species total,Cod
+No_MP,f4r5,gadoids_unknown,11,240,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f4r5,haddock,0,240,haddock,Species total,Haddock
+No_MP,f4r5,lesser_sand_eel,0,240,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f4r5,norway_pout,0,240,norway_pout,Species total,Norway Pout
+No_MP,f4r5,poor_cod_1,0,240,poor_cod,Age class,Poor Cod 1+
+No_MP,f4r5,poor_cod_total,0,240,poor_cod,Species total,Poor Cod
+No_MP,f4r5,saithe_0,218,240,saithe,Age class,Saithe 0
+No_MP,f4r5,saithe_1,0,240,saithe,Age class,Saithe 1
+No_MP,f4r5,saithe_total,218,240,saithe,Species total,Saithe
+No_MP,f4r5,wrasse,11,240,wrasse,Species total,Wrasse sp.
+No_MP,f4r7,cod_0,0,27,cod,Age class,Cod 0
+No_MP,f4r7,cod_1,1,27,cod,Age class,Cod 1
+No_MP,f4r7,cod_total,1,27,cod,Species total,Cod
+No_MP,f4r7,gadoids_unknown,8,27,gadoids_unknown,Species total,Unknown gadoid
+No_MP,f4r7,haddock,0,27,haddock,Species total,Haddock
+No_MP,f4r7,lesser_sand_eel,0,27,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,f4r7,norway_pout,0,27,norway_pout,Species total,Norway Pout
+No_MP,f4r7,poor_cod_1,0,27,poor_cod,Age class,Poor Cod 1+
+No_MP,f4r7,poor_cod_total,0,27,poor_cod,Species total,Poor Cod
+No_MP,f4r7,saithe_0,6,27,saithe,Age class,Saithe 0
+No_MP,f4r7,saithe_1,12,27,saithe,Age class,Saithe 1
+No_MP,f4r7,saithe_total,18,27,saithe,Species total,Saithe
+No_MP,f4r7,wrasse,0,27,wrasse,Species total,Wrasse sp.
+No_MP,r7f5,cod_0,0,193,cod,Age class,Cod 0
+No_MP,r7f5,cod_1,0,193,cod,Age class,Cod 1
+No_MP,r7f5,cod_total,0,193,cod,Species total,Cod
+No_MP,r7f5,gadoids_unknown,36,193,gadoids_unknown,Species total,Unknown gadoid
+No_MP,r7f5,haddock,0,193,haddock,Species total,Haddock
+No_MP,r7f5,lesser_sand_eel,8,193,lesser_sand_eel,Species total,Lesser Sandeel
+No_MP,r7f5,norway_pout,2,193,norway_pout,Species total,Norway Pout
+No_MP,r7f5,poor_cod_1,13,193,poor_cod,Age class,Poor Cod 1+
+No_MP,r7f5,poor_cod_total,13,193,poor_cod,Species total,Poor Cod
+No_MP,r7f5,saithe_0,113,193,saithe,Age class,Saithe 0
+No_MP,r7f5,saithe_1,4,193,saithe,Age class,Saithe 1
+No_MP,r7f5,saithe_total,117,193,saithe,Species total,Saithe
+No_MP,r7f5,wrasse,17,193,wrasse,Species total,Wrasse sp.
+MP,f1r5,cod_0,0,67,cod,Age class,Cod 0
+MP,f1r5,cod_1,0,67,cod,Age class,Cod 1
+MP,f1r5,cod_total,0,67,cod,Species total,Cod
+MP,f1r5,gadoids_unknown,3,67,gadoids_unknown,Species total,Unknown gadoid
+MP,f1r5,haddock,0,67,haddock,Species total,Haddock
+MP,f1r5,lesser_sand_eel,0,67,lesser_sand_eel,Species total,Lesser Sandeel
+MP,f1r5,norway_pout,0,67,norway_pout,Species total,Norway Pout
+MP,f1r5,poor_cod_1,0,67,poor_cod,Age class,Poor Cod 1+
+MP,f1r5,poor_cod_total,0,67,poor_cod,Species total,Poor Cod
+MP,f1r5,saithe_0,63,67,saithe,Age class,Saithe 0
+MP,f1r5,saithe_1,0,67,saithe,Age class,Saithe 1
+MP,f1r5,saithe_total,63,67,saithe,Species total,Saithe
+MP,f1r5,wrasse,1,67,wrasse,Species total,Wrasse sp.
+MP,f2r1,cod_0,1,14,cod,Age class,Cod 0
+MP,f2r1,cod_1,2,14,cod,Age class,Cod 1
+MP,f2r1,cod_total,3,14,cod,Species total,Cod
+MP,f2r1,gadoids_unknown,6,14,gadoids_unknown,Species total,Unknown gadoid
+MP,f2r1,haddock,0,14,haddock,Species total,Haddock
+MP,f2r1,lesser_sand_eel,0,14,lesser_sand_eel,Species total,Lesser Sandeel
+MP,f2r1,norway_pout,0,14,norway_pout,Species total,Norway Pout
+MP,f2r1,poor_cod_1,0,14,poor_cod,Age class,Poor Cod 1+
+MP,f2r1,poor_cod_total,0,14,poor_cod,Species total,Poor Cod
+MP,f2r1,saithe_0,0,14,saithe,Age class,Saithe 0
+MP,f2r1,saithe_1,5,14,saithe,Age class,Saithe 1
+MP,f2r1,saithe_total,5,14,saithe,Species total,Saithe
+MP,f2r1,wrasse,0,14,wrasse,Species total,Wrasse sp.
+MP,f3r8,cod_0,0,18,cod,Age class,Cod 0
+MP,f3r8,cod_1,2,18,cod,Age class,Cod 1
+MP,f3r8,cod_total,2,18,cod,Species total,Cod
+MP,f3r8,gadoids_unknown,5,18,gadoids_unknown,Species total,Unknown gadoid
+MP,f3r8,haddock,0,18,haddock,Species total,Haddock
+MP,f3r8,lesser_sand_eel,2,18,lesser_sand_eel,Species total,Lesser Sandeel
+MP,f3r8,norway_pout,0,18,norway_pout,Species total,Norway Pout
+MP,f3r8,poor_cod_1,0,18,poor_cod,Age class,Poor Cod 1+
+MP,f3r8,poor_cod_total,0,18,poor_cod,Species total,Poor Cod
+MP,f3r8,saithe_0,5,18,saithe,Age class,Saithe 0
+MP,f3r8,saithe_1,3,18,saithe,Age class,Saithe 1
+MP,f3r8,saithe_total,8,18,saithe,Species total,Saithe
+MP,f3r8,wrasse,1,18,wrasse,Species total,Wrasse sp.
+MP,f4r10,cod_0,0,76,cod,Age class,Cod 0
+MP,f4r10,cod_1,0,76,cod,Age class,Cod 1
+MP,f4r10,cod_total,0,76,cod,Species total,Cod
+MP,f4r10,gadoids_unknown,9,76,gadoids_unknown,Species total,Unknown gadoid
+MP,f4r10,haddock,0,76,haddock,Species total,Haddock
+MP,f4r10,lesser_sand_eel,0,76,lesser_sand_eel,Species total,Lesser Sandeel
+MP,f4r10,norway_pout,0,76,norway_pout,Species total,Norway Pout
+MP,f4r10,poor_cod_1,17,76,poor_cod,Age class,Poor Cod 1+
+MP,f4r10,poor_cod_total,17,76,poor_cod,Species total,Poor Cod
+MP,f4r10,saithe_0,49,76,saithe,Age class,Saithe 0
+MP,f4r10,saithe_1,0,76,saithe,Age class,Saithe 1
+MP,f4r10,saithe_total,49,76,saithe,Species total,Saithe
+MP,f4r10,wrasse,1,76,wrasse,Species total,Wrasse sp.
+MP,f4r3,cod_0,2,189,cod,Age class,Cod 0
+MP,f4r3,cod_1,1,189,cod,Age class,Cod 1
+MP,f4r3,cod_total,3,189,cod,Species total,Cod
+MP,f4r3,gadoids_unknown,14,189,gadoids_unknown,Species total,Unknown gadoid
+MP,f4r3,haddock,0,189,haddock,Species total,Haddock
+MP,f4r3,lesser_sand_eel,0,189,lesser_sand_eel,Species total,Lesser Sandeel
+MP,f4r3,norway_pout,0,189,norway_pout,Species total,Norway Pout
+MP,f4r3,poor_cod_1,0,189,poor_cod,Age class,Poor Cod 1+
+MP,f4r3,poor_cod_total,0,189,poor_cod,Species total,Poor Cod
+MP,f4r3,saithe_0,163,189,saithe,Age class,Saithe 0
+MP,f4r3,saithe_1,7,189,saithe,Age class,Saithe 1
+MP,f4r3,saithe_total,170,189,saithe,Species total,Saithe
+MP,f4r3,wrasse,2,189,wrasse,Species total,Wrasse sp.
+MP,r6f3,cod_0,1,36,cod,Age class,Cod 0
+MP,r6f3,cod_1,1,36,cod,Age class,Cod 1
+MP,r6f3,cod_total,2,36,cod,Species total,Cod
+MP,r6f3,gadoids_unknown,2,36,gadoids_unknown,Species total,Unknown gadoid
+MP,r6f3,haddock,0,36,haddock,Species total,Haddock
+MP,r6f3,lesser_sand_eel,0,36,lesser_sand_eel,Species total,Lesser Sandeel
+MP,r6f3,norway_pout,0,36,norway_pout,Species total,Norway Pout
+MP,r6f3,poor_cod_1,0,36,poor_cod,Age class,Poor Cod 1+
+MP,r6f3,poor_cod_total,0,36,poor_cod,Species total,Poor Cod
+MP,r6f3,saithe_0,11,36,saithe,Age class,Saithe 0
+MP,r6f3,saithe_1,1,36,saithe,Age class,Saithe 1
+MP,r6f3,saithe_total,12,36,saithe,Species total,Saithe
+MP,r6f3,wrasse,20,36,wrasse,Species total,Wrasse sp.
+MP,r6f5,cod_0,0,65,cod,Age class,Cod 0
+MP,r6f5,cod_1,0,65,cod,Age class,Cod 1
+MP,r6f5,cod_total,0,65,cod,Species total,Cod
+MP,r6f5,gadoids_unknown,8,65,gadoids_unknown,Species total,Unknown gadoid
+MP,r6f5,haddock,0,65,haddock,Species total,Haddock
+MP,r6f5,lesser_sand_eel,0,65,lesser_sand_eel,Species total,Lesser Sandeel
+MP,r6f5,norway_pout,0,65,norway_pout,Species total,Norway Pout
+MP,r6f5,poor_cod_1,3,65,poor_cod,Age class,Poor Cod 1+
+MP,r6f5,poor_cod_total,3,65,poor_cod,Species total,Poor Cod
+MP,r6f5,saithe_0,50,65,saithe,Age class,Saithe 0
+MP,r6f5,saithe_1,1,65,saithe,Age class,Saithe 1
+MP,r6f5,saithe_total,51,65,saithe,Species total,Saithe
+MP,r6f5,wrasse,3,65,wrasse,Species total,Wrasse sp.
+MP,r8f4,cod_0,0,4,cod,Age class,Cod 0
+MP,r8f4,cod_1,0,4,cod,Age class,Cod 1
+MP,r8f4,cod_total,0,4,cod,Species total,Cod
+MP,r8f4,gadoids_unknown,3,4,gadoids_unknown,Species total,Unknown gadoid
+MP,r8f4,haddock,0,4,haddock,Species total,Haddock
+MP,r8f4,lesser_sand_eel,0,4,lesser_sand_eel,Species total,Lesser Sandeel
+MP,r8f4,norway_pout,0,4,norway_pout,Species total,Norway Pout
+MP,r8f4,poor_cod_1,0,4,poor_cod,Age class,Poor Cod 1+
+MP,r8f4,poor_cod_total,0,4,poor_cod,Species total,Poor Cod
+MP,r8f4,saithe_0,0,4,saithe,Age class,Saithe 0
+MP,r8f4,saithe_1,1,4,saithe,Age class,Saithe 1
+MP,r8f4,saithe_total,1,4,saithe,Species total,Saithe
+MP,r8f4,wrasse,0,4,wrasse,Species total,Wrasse sp.
+MP,r8f5,cod_0,0,71,cod,Age class,Cod 0
+MP,r8f5,cod_1,2,71,cod,Age class,Cod 1
+MP,r8f5,cod_total,2,71,cod,Species total,Cod
+MP,r8f5,gadoids_unknown,7,71,gadoids_unknown,Species total,Unknown gadoid
+MP,r8f5,haddock,0,71,haddock,Species total,Haddock
+MP,r8f5,lesser_sand_eel,0,71,lesser_sand_eel,Species total,Lesser Sandeel
+MP,r8f5,norway_pout,0,71,norway_pout,Species total,Norway Pout
+MP,r8f5,poor_cod_1,1,71,poor_cod,Age class,Poor Cod 1+
+MP,r8f5,poor_cod_total,1,71,poor_cod,Species total,Poor Cod
+MP,r8f5,saithe_0,51,71,saithe,Age class,Saithe 0
+MP,r8f5,saithe_1,0,71,saithe,Age class,Saithe 1
+MP,r8f5,saithe_total,51,71,saithe,Species total,Saithe
+MP,r8f5,wrasse,10,71,wrasse,Species total,Wrasse sp.
+MP,r9f5,cod_0,0,31,cod,Age class,Cod 0
+MP,r9f5,cod_1,0,31,cod,Age class,Cod 1
+MP,r9f5,cod_total,0,31,cod,Species total,Cod
+MP,r9f5,gadoids_unknown,8,31,gadoids_unknown,Species total,Unknown gadoid
+MP,r9f5,haddock,1,31,haddock,Species total,Haddock
+MP,r9f5,lesser_sand_eel,5,31,lesser_sand_eel,Species total,Lesser Sandeel
+MP,r9f5,norway_pout,0,31,norway_pout,Species total,Norway Pout
+MP,r9f5,poor_cod_1,0,31,poor_cod,Age class,Poor Cod 1+
+MP,r9f5,poor_cod_total,0,31,poor_cod,Species total,Poor Cod
+MP,r9f5,saithe_0,16,31,saithe,Age class,Saithe 0
+MP,r9f5,saithe_1,1,31,saithe,Age class,Saithe 1
+MP,r9f5,saithe_total,17,31,saithe,Species total,Saithe
+MP,r9f5,wrasse,0,31,wrasse,Species total,Wrasse sp.

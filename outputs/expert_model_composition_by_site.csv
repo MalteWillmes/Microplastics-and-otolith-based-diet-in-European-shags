@@ -1,0 +1,121 @@
+site,category,method,proportion
+F2-R1,Cod,Expert,0.14285714285714285
+F2-R1,Cod,Model,0.21428571428571427
+F2-R1,Saithe,Expert,0.8571428571428571
+F2-R1,Saithe,Model,0.35714285714285715
+F2-R1,Haddock,Expert,0
+F2-R1,Haddock,Model,0
+F2-R1,Poor Cod,Expert,0
+F2-R1,Poor Cod,Model,0
+F2-R1,Norway Pout,Expert,0
+F2-R1,Norway Pout,Model,0
+F2-R1,Unknown gadoid,Expert,0
+F2-R1,Unknown gadoid,Model,0.42857142857142855
+F2-R1,Lesser Sandeel,Expert,0
+F2-R1,Lesser Sandeel,Model,0
+F2-R1,Wrasse sp.,Expert,0
+F2-R1,Wrasse sp.,Model,0
+F2-R1,Other species,Expert,0
+F2-R1,Other species,Model,0
+F2-R1,Unknown,Expert,0
+F2-R1,Unknown,Model,0
+F3-R1,Cod,Expert,0
+F3-R1,Cod,Model,0
+F3-R1,Saithe,Expert,0.23255813953488372
+F3-R1,Saithe,Model,0.4186046511627907
+F3-R1,Haddock,Expert,0
+F3-R1,Haddock,Model,0
+F3-R1,Poor Cod,Expert,0.4883720930232558
+F3-R1,Poor Cod,Model,0.20930232558139536
+F3-R1,Norway Pout,Expert,0
+F3-R1,Norway Pout,Model,0
+F3-R1,Unknown gadoid,Expert,0.046511627906976744
+F3-R1,Unknown gadoid,Model,0.37209302325581395
+F3-R1,Lesser Sandeel,Expert,0
+F3-R1,Lesser Sandeel,Model,0
+F3-R1,Wrasse sp.,Expert,0
+F3-R1,Wrasse sp.,Model,0
+F3-R1,Other species,Expert,0
+F3-R1,Other species,Model,0
+F3-R1,Unknown,Expert,0.23255813953488372
+F3-R1,Unknown,Model,0
+F3-R6,Cod,Expert,0.05555555555555555
+F3-R6,Cod,Model,0.05555555555555555
+F3-R6,Saithe,Expert,0.05555555555555555
+F3-R6,Saithe,Model,0.3333333333333333
+F3-R6,Haddock,Expert,0
+F3-R6,Haddock,Model,0
+F3-R6,Poor Cod,Expert,0
+F3-R6,Poor Cod,Model,0
+F3-R6,Norway Pout,Expert,0
+F3-R6,Norway Pout,Model,0
+F3-R6,Unknown gadoid,Expert,0.2777777777777778
+F3-R6,Unknown gadoid,Model,0.05555555555555555
+F3-R6,Lesser Sandeel,Expert,0
+F3-R6,Lesser Sandeel,Model,0
+F3-R6,Wrasse sp.,Expert,0.5555555555555556
+F3-R6,Wrasse sp.,Model,0.5555555555555556
+F3-R6,Other species,Expert,0.05555555555555555
+F3-R6,Other species,Model,0
+F3-R6,Unknown,Expert,0
+F3-R6,Unknown,Model,0
+F3-R8,Cod,Expert,0
+F3-R8,Cod,Model,0.1111111111111111
+F3-R8,Saithe,Expert,0.4444444444444444
+F3-R8,Saithe,Model,0.4444444444444444
+F3-R8,Haddock,Expert,0
+F3-R8,Haddock,Model,0
+F3-R8,Poor Cod,Expert,0
+F3-R8,Poor Cod,Model,0
+F3-R8,Norway Pout,Expert,0
+F3-R8,Norway Pout,Model,0
+F3-R8,Unknown gadoid,Expert,0.2222222222222222
+F3-R8,Unknown gadoid,Model,0.2777777777777778
+F3-R8,Lesser Sandeel,Expert,0.3333333333333333
+F3-R8,Lesser Sandeel,Model,0.1111111111111111
+F3-R8,Wrasse sp.,Expert,0
+F3-R8,Wrasse sp.,Model,0.05555555555555555
+F3-R8,Other species,Expert,0
+F3-R8,Other species,Model,0
+F3-R8,Unknown,Expert,0
+F3-R8,Unknown,Model,0
+F4-R8,Cod,Expert,0
+F4-R8,Cod,Model,0
+F4-R8,Saithe,Expert,0.5
+F4-R8,Saithe,Model,0.25
+F4-R8,Haddock,Expert,0
+F4-R8,Haddock,Model,0
+F4-R8,Poor Cod,Expert,0
+F4-R8,Poor Cod,Model,0
+F4-R8,Norway Pout,Expert,0
+F4-R8,Norway Pout,Model,0
+F4-R8,Unknown gadoid,Expert,0.5
+F4-R8,Unknown gadoid,Model,0.75
+F4-R8,Lesser Sandeel,Expert,0
+F4-R8,Lesser Sandeel,Model,0
+F4-R8,Wrasse sp.,Expert,0
+F4-R8,Wrasse sp.,Model,0
+F4-R8,Other species,Expert,0
+F4-R8,Other species,Model,0
+F4-R8,Unknown,Expert,0
+F4-R8,Unknown,Model,0
+F4-R10,Cod,Expert,0
+F4-R10,Cod,Model,0
+F4-R10,Saithe,Expert,0
+F4-R10,Saithe,Model,0.6447368421052632
+F4-R10,Haddock,Expert,0
+F4-R10,Haddock,Model,0
+F4-R10,Poor Cod,Expert,0.3157894736842105
+F4-R10,Poor Cod,Model,0.2236842105263158
+F4-R10,Norway Pout,Expert,0
+F4-R10,Norway Pout,Model,0
+F4-R10,Unknown gadoid,Expert,0.6842105263157895
+F4-R10,Unknown gadoid,Model,0.11842105263157894
+F4-R10,Lesser Sandeel,Expert,0
+F4-R10,Lesser Sandeel,Model,0
+F4-R10,Wrasse sp.,Expert,0
+F4-R10,Wrasse sp.,Model,0.013157894736842105
+F4-R10,Other species,Expert,0
+F4-R10,Other species,Model,0
+F4-R10,Unknown,Expert,0
+F4-R10,Unknown,Model,0

@@ -1,0 +1,2 @@
+model,predictor_set,balance,prediction_seed,n_predictors,gadoid_threshold,gadoid_species,species
+Fourier_Morphometrics_Weighting,Fourier_Morphometrics,Weighting,20261002,53,0.5,cod; saithe; haddock; poor_cod; norway_pout,cod; saithe; haddock; poor_cod; norway_pout; lesser_sand_eel; wrasse

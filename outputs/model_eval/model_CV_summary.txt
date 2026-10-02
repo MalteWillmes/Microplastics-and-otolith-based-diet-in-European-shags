@@ -1,0 +1,71 @@
+
+Call:
+summary.resamples(object = model_resamples)
+
+Models: Wavelet_Downsampling, Wavelet_Weighting, Fourier_Downsampling, Fourier_Weighting, Wavelet_Fourier_Downsampling, Wavelet_Fourier_Weighting, Morphometrics_Downsampling, Morphometrics_Weighting, Wavelet_Morphometrics_Downsampling, Wavelet_Morphometrics_Weighting, Fourier_Morphometrics_Downsampling, Fourier_Morphometrics_Weighting, Wavelet_Fourier_Morphometrics_Downsampling, Wavelet_Fourier_Morphometrics_Weighting 
+Number of resamples: 50 
+
+Accuracy 
+                                                Min.   1st Qu.    Median      Mean   3rd Qu.      Max.
+Wavelet_Downsampling                       0.3333333 0.4285714 0.5346320 0.5299784 0.6190476 0.7142857
+Wavelet_Weighting                          0.6190476 0.6863636 0.7272727 0.7406450 0.8095238 0.8636364
+Fourier_Downsampling                       0.3636364 0.5454545 0.6277056 0.6098355 0.6954545 0.7619048
+Fourier_Weighting                          0.6363636 0.7359307 0.8095238 0.7975801 0.8571429 0.9523810
+Wavelet_Fourier_Downsampling               0.3809524 0.5454545 0.6000000 0.6179957 0.7142857 0.8571429
+Wavelet_Fourier_Weighting                  0.6666667 0.7500000 0.8000000 0.7951342 0.8420455 0.9523810
+Morphometrics_Downsampling                 0.4761905 0.5714286 0.6363636 0.6344502 0.7000000 0.8181818
+Morphometrics_Weighting                    0.5714286 0.7272727 0.7673160 0.7698139 0.8160173 0.9545455
+Wavelet_Morphometrics_Downsampling         0.4545455 0.6363636 0.6818182 0.6926061 0.7589286 0.9047619
+Wavelet_Morphometrics_Weighting            0.6500000 0.8000000 0.8535714 0.8393420 0.9035714 1.0000000
+Fourier_Morphometrics_Downsampling         0.5454545 0.6704545 0.7559524 0.7474069 0.8071429 0.9523810
+Fourier_Morphometrics_Weighting            0.7000000 0.8571429 0.8818182 0.8781775 0.9090909 1.0000000
+Wavelet_Fourier_Morphometrics_Downsampling 0.4500000 0.6704545 0.7619048 0.7353160 0.8095238 0.9090909
+Wavelet_Fourier_Morphometrics_Weighting    0.7000000 0.8181818 0.8818182 0.8727619 0.9090909 0.9545455
+                                           NA's
+Wavelet_Downsampling                          0
+Wavelet_Weighting                             0
+Fourier_Downsampling                          0
+Fourier_Weighting                             0
+Wavelet_Fourier_Downsampling                  0
+Wavelet_Fourier_Weighting                     0
+Morphometrics_Downsampling                    0
+Morphometrics_Weighting                       0
+Wavelet_Morphometrics_Downsampling            0
+Wavelet_Morphometrics_Weighting               0
+Fourier_Morphometrics_Downsampling            0
+Fourier_Morphometrics_Weighting               0
+Wavelet_Fourier_Morphometrics_Downsampling    0
+Wavelet_Fourier_Morphometrics_Weighting       0
+
+Kappa 
+                                                Min.   1st Qu.    Median      Mean   3rd Qu.      Max.
+Wavelet_Downsampling                       0.2145015 0.3266309 0.4457962 0.4297575 0.5184205 0.6538462
+Wavelet_Weighting                          0.5230352 0.5978893 0.6498452 0.6650791 0.7545171 0.8267717
+Fourier_Downsampling                       0.2506083 0.4508804 0.5471402 0.5292776 0.6216841 0.7169811
+Fourier_Weighting                          0.5498721 0.6702697 0.7610237 0.7468387 0.8153699 0.9418283
+Wavelet_Fourier_Downsampling               0.2834646 0.4461762 0.5302319 0.5387038 0.6537744 0.8230337
+Wavelet_Fourier_Weighting                  0.5847458 0.6837471 0.7500000 0.7408564 0.8043956 0.9408451
+Morphometrics_Downsampling                 0.3905013 0.4925930 0.5801620 0.5694511 0.6474831 0.7749361
+Morphometrics_Weighting                    0.4864130 0.6740741 0.7184987 0.7224920 0.7765766 0.9434447
+Wavelet_Morphometrics_Downsampling         0.3773585 0.5706621 0.6206805 0.6308792 0.7033684 0.8852459
+Wavelet_Morphometrics_Weighting            0.5783133 0.7583016 0.8205131 0.8025801 0.8787135 1.0000000
+Fourier_Morphometrics_Downsampling         0.4847775 0.6126499 0.7075118 0.6961749 0.7593969 0.9416667
+Fourier_Morphometrics_Weighting            0.6341463 0.8211495 0.8523243 0.8480050 0.8870341 1.0000000
+Wavelet_Fourier_Morphometrics_Downsampling 0.3732194 0.6094428 0.7083131 0.6803072 0.7640223 0.8823529
+Wavelet_Fourier_Morphometrics_Weighting    0.6341463 0.7752224 0.8524712 0.8409091 0.8873959 0.9425587
+                                           NA's
+Wavelet_Downsampling                          0
+Wavelet_Weighting                             0
+Fourier_Downsampling                          0
+Fourier_Weighting                             0
+Wavelet_Fourier_Downsampling                  0
+Wavelet_Fourier_Weighting                     0
+Morphometrics_Downsampling                    0
+Morphometrics_Weighting                       0
+Wavelet_Morphometrics_Downsampling            0
+Wavelet_Morphometrics_Weighting               0
+Fourier_Morphometrics_Downsampling            0
+Fourier_Morphometrics_Weighting               0
+Wavelet_Fourier_Morphometrics_Downsampling    0
+Wavelet_Fourier_Morphometrics_Weighting       0
+

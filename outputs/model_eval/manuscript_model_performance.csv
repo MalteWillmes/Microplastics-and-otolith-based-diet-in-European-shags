@@ -1,0 +1,2 @@
+Model,Predictor_set,Balance,N_total,N_training,N_test,CV_accuracy,CV_accuracy_SD,CV_kappa,CV_kappa_SD,Test_accuracy,Test_accuracy_CI,Test_kappa,Macro_F1,Macro_balanced_accuracy
+Fourier_Morphometrics_Weighting,Fourier_Morphometrics,Weighting,149,106,43,0.878,0.067,0.848,0.084,0.814,0.666–0.916,0.769,0.809,0.9
