@@ -2130,6 +2130,11 @@ ggsave(
 # Mean reconstructed otolith shapes ---------------------------------------
 # This block runs after either a fresh model fit or a saved-environment load,
 # so the figure can be regenerated without refitting the models.
+#
+# Custom plotting is used here instead of plotWaveletShape() and
+# plotFourierShape() so that plotting limits are calculated across all species.
+# This prevents larger reconstructed outlines and angle labels from being
+# clipped when species differ substantially in mean otolith size.
 
 shape_plot <- shape
 
@@ -2160,6 +2165,250 @@ shape_plot_colors <- unname(
   ]
 )
 
+inverse_wavelet <- getFromNamespace(
+  ".shapeR.inverse.wavelet",
+  "shapeR"
+)
+
+inverse_fourier <- getFromNamespace(
+  ".shapeR.iefourier",
+  "shapeR"
+)
+
+plot_reconstructed_shapes <- function(
+    object,
+    class_name,
+    reconstruction = c("wavelet", "fourier"),
+    colors,
+    lwd = 2,
+    lty = 1
+) {
+  reconstruction <- match.arg(reconstruction)
+  
+  classes <- object@master.list[[class_name]]
+  keep <- object@filter & !is.na(classes)
+  
+  class_levels <- levels(
+    droplevels(
+      factor(
+        classes[keep],
+        levels = levels(classes)
+      )
+    )
+  )
+  
+  if (length(class_levels) == 0) {
+    stop("No reference species available for shape reconstruction.")
+  }
+  
+  outlines <- vector(
+    "list",
+    length(class_levels)
+  )
+  
+  names(outlines) <- class_levels
+  
+  if (reconstruction == "wavelet") {
+    for (i in seq_along(class_levels)) {
+      class_i <- class_levels[i]
+      ind <- keep & classes == class_i
+      
+      mean_coef <- apply(
+        object@wavelet.coef[ind, , drop = FALSE],
+        2,
+        mean,
+        na.rm = TRUE
+      )
+      
+      mean_radius <- mean(
+        object@master.list$mean.radii[ind],
+        na.rm = TRUE
+      )
+      
+      reconstructed <- inverse_wavelet(
+        mean_coef,
+        mean_radius
+      )
+      
+      outlines[[i]] <- tibble(
+        x = reconstructed$X,
+        y = reconstructed$Y
+      )
+    }
+  } else {
+    fourier_coef <- cbind(
+      -1,
+      0,
+      0,
+      object@fourier.coef
+    )
+    
+    fourier_seq <- seq(
+      1,
+      12 * 4,
+      by = 4
+    )
+    
+    for (i in seq_along(class_levels)) {
+      class_i <- class_levels[i]
+      ind <- keep & classes == class_i
+      
+      mean_coef <- apply(
+        fourier_coef[ind, , drop = FALSE],
+        2,
+        mean,
+        na.rm = TRUE
+      )
+      
+      reconstructed <- inverse_fourier(
+        mean_coef[fourier_seq],
+        mean_coef[fourier_seq + 1],
+        mean_coef[fourier_seq + 2],
+        mean_coef[fourier_seq + 3],
+        12,
+        64 * 4
+      )
+      
+      outlines[[i]] <- tibble(
+        x = reconstructed$x,
+        y = reconstructed$y
+      )
+    }
+  }
+  
+  all_x <- unlist(
+    map(
+      outlines,
+      "x"
+    ),
+    use.names = FALSE
+  )
+  
+  all_y <- unlist(
+    map(
+      outlines,
+      "y"
+    ),
+    use.names = FALSE
+  )
+  
+  x_range <- range(
+    all_x,
+    finite = TRUE
+  )
+  
+  y_range <- range(
+    all_y,
+    finite = TRUE
+  )
+  
+  x_span <- diff(x_range)
+  y_span <- diff(y_range)
+  
+  if (!is.finite(x_span) || x_span == 0) {
+    x_span <- 1
+  }
+  
+  if (!is.finite(y_span) || y_span == 0) {
+    y_span <- 1
+  }
+  
+  xlim <- x_range +
+    c(-1, 1) *
+    x_span *
+    0.18
+  
+  ylim <- y_range +
+    c(-1, 1) *
+    y_span *
+    0.22
+  
+  center_x <- mean(
+    map_dbl(
+      outlines,
+      ~ mean(.x$x, na.rm = TRUE)
+    )
+  )
+  
+  center_y <- mean(
+    map_dbl(
+      outlines,
+      ~ mean(.x$y, na.rm = TRUE)
+    )
+  )
+  
+  plot(
+    NA,
+    NA,
+    type = "n",
+    xlim = xlim,
+    ylim = ylim,
+    xlab = "",
+    ylab = "",
+    axes = FALSE,
+    frame.plot = FALSE,
+    asp = 1,
+    xaxs = "i",
+    yaxs = "i"
+  )
+  
+  abline(
+    h = center_y,
+    v = center_x,
+    lty = 2,
+    col = "grey"
+  )
+  
+  for (i in seq_along(outlines)) {
+    lines(
+      outlines[[i]]$x,
+      outlines[[i]]$y,
+      col = colors[i],
+      lwd = lwd,
+      lty = lty
+    )
+  }
+  
+  text(
+    center_x,
+    ylim[2] - 0.05 * diff(ylim),
+    "90\u00b0",
+    cex = 1.05
+  )
+  
+  text(
+    center_x,
+    ylim[1] + 0.05 * diff(ylim),
+    "270\u00b0",
+    cex = 1.05
+  )
+  
+  text(
+    xlim[2] - 0.05 * diff(xlim),
+    center_y,
+    "0\u00b0",
+    cex = 1.05
+  )
+  
+  text(
+    xlim[1] + 0.06 * diff(xlim),
+    center_y,
+    "180\u00b0",
+    cex = 1.05
+  )
+  
+  legend(
+    "bottomleft",
+    legend = class_levels,
+    col = colors[seq_along(class_levels)],
+    lty = lty,
+    lwd = lwd,
+    cex = 0.85,
+    bty = "n",
+    inset = 0.01
+  )
+}
+
 png(
   file.path(
     out_dir,
@@ -2173,17 +2422,17 @@ png(
 
 par(
   mfrow = c(2, 1),
-  mar = c(4.5, 2, 3, 2),
+  mar = c(2.5, 2.5, 3, 2.5),
   mgp = c(2.2, 0.7, 0)
 )
 
-plotWaveletShape(
+plot_reconstructed_shapes(
   shape_plot,
   "species_plot",
-  show.angle = TRUE,
+  reconstruction = "wavelet",
+  colors = shape_plot_colors,
   lwd = 2,
-  lty = 1,
-  col = shape_plot_colors
+  lty = 1
 )
 
 mtext(
@@ -2203,13 +2452,13 @@ mtext(
   cex = 1.1
 )
 
-plotFourierShape(
+plot_reconstructed_shapes(
   shape_plot,
   "species_plot",
-  show.angle = TRUE,
+  reconstruction = "fourier",
+  colors = shape_plot_colors,
   lwd = 2,
-  lty = 1,
-  col = shape_plot_colors
+  lty = 1
 )
 
 mtext(
